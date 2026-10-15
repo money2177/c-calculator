@@ -11,3 +11,4 @@ with unit tests run automatically by GitHub Actions on every push / PR to `main`
 make all && ./calculator
 make test
 ```
+Updated CSS breakpoints for mobile.
